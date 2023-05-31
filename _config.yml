@@ -1,7 +1,7 @@
 
 theme: jekyll-theme-cayman
 title: Hardware Aware Efficient Training
-description: Workshop at ICLR 2021
+description: Tentative workshop at NeurIPS 2023
 
 navigation:
   Home: "/"
@@ -10,7 +10,7 @@ navigation:
   Organisers: "/organisers"
   Keynotes: "/speakers"
   Schedule: "/schedule"
-  Accepted Papers: "/papers"
+  
  
 markdown: kramdown
 
