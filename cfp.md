@@ -1,19 +1,19 @@
 # Important Dates 
 
-- Paper submission deadline: 28 February 2021 (11:59 pm UTC-11).
-- Acceptance notification: 26 March 2021.
-- Camera ready deadline: 30 April 2021 (11:59 pm UTC-11).
-- Workshop: 7 May 2021.
+- Paper submission deadline: 29 September 2023 (11:59 pm UTC-11).
+- Acceptance notification: 27 October 2023.
+- Camera ready deadline: 30 November 2023 (11:59 pm UTC-11).
+- Workshop: 15 16 December May 2023.
 
 # Author Instructions
 
 The authors have to follow the instructions listed below when submitting thier contributions:
 
-- Use the ICLR LaTeX [template](https://github.com/ICLR/Master-Template/raw/master/archive/iclr2021.zip) to prepare the manuscript.
+- Use the NeurIPS LaTeX [template](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles) to prepare the manuscript.
 - Papers should not be longer than 4 pages, including figures and tables, and excluding references and appendix.
 - Do not report author names since the review is double blind.
-- Papers that have been accepted in the main ICLR conference cannot be submitted to the workshop.  
-- Manuscripts should be submitted using the [CMT](https://cmt3.research.microsoft.com/HAET2021) system. 
+- Papers that have been accepted in the main NeurIPS conference cannot be submitted to the workshop.  
+- Manuscripts should be submitted using the link: (TBD). 
 
 # Scope and Topics
 
