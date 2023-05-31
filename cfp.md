@@ -3,7 +3,7 @@
 - Paper submission deadline: 29 September 2023 (11:59 pm UTC-11).
 - Acceptance notification: 27 October 2023.
 - Camera ready deadline: 30 November 2023 (11:59 pm UTC-11).
-- Workshop: 15 16 December May 2023.
+- Workshop: 15 or 16 December May 2023.
 
 # Author Instructions
 
