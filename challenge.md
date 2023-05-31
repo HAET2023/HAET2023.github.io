@@ -28,17 +28,3 @@ Methods will be ranked according to the accuracy they achieve after 10 minutes o
 
 - Competition submission deadline: 1 March 2021 (11:59 pm UTC-11).
 - Workshop: 7 May 2021.
-
-
-Ranking for the 3 best teams <span style="color:red;">**displayed bellow**</span>. The best 3 teams will be invited to present their solution during the workshop poster session and will receive an award. Evaluation has been made on the first 10 classes of mini-imagenet [train](https://www.kaggle.com/whitemoon/miniimagenet?select=mini-imagenet-cache-train.pkl) where each class contains 600 images. We used for each class, the first 500 images to train models and the remaining 100 to test them. We also resize all images to be 32 by 32 pixels. **Note that the results displayed on the website represent an avverage accuracy over 5 runs.**
-
-
-| Members                                                                                                 | Team/Affiliation                   | Rank | Accuracy | Code|
-|---------------------------------------------------------------------------------------------------------|------------------------------------|------|----------
-|Omar Mohamed Awad, Michael Lim, Gurpreet Gosal, Habib Hajimolahoseini, Walid Ahmed, Yang Liu, Gordon Deng| Huawei TRC Ascend Team| 1    | 88.0%    | [link](https://github.com/Omar-Awad/HAET2021_Huawei) |
-|Mahdi Zolnouri, Dounia Lakhmiri, Christophe Tribes, Eyyub Sari, Sébastien Le Digabel| Polytechnique Montréal and Noah's Ark Lab| 2    | 86.0%    | [link]( https://github.com/DouniaLakhmiri/ICLR_HAET2021) |
-|Morteza Hosseini, Bharat Prakash, Hamed Pirsiavash, Tinoosh Mohseninn                                    | University of Maryland Baltimore County| 3 | 84.8% | [link](https://github.com/xmhosseini/HAET2021)|
-
-
-
-You may contact us on ghouthi.bouklihacene@imt-atlantique.fr\bouklihg@mila.quebec if you need further details.
