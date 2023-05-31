@@ -1,9 +1,8 @@
 ## Overview
 
-The workshop will take place on Friday May 7, 2021. Due to the pandemic, the workshop will be <span style="color:red;">**VIRTUAL**</span>. More details will be provided soon.
+If accepted, the workshop will take place on December 15 or 16, 2023.
 
-Note that to attend the event, a registration on the ICLR [website](https://iclr.cc/) is required. All workshop events (except Poster session and open discussion) can be followed using the ICLR [link](https://iclr.cc/virtual/2021/workshop/2136) or use the zoom link by clicking on "join zoom" on the ICLR [link](https://iclr.cc/virtual/2021/workshop/2136). For the Poster session participants should une the Gather.town [link](https://eventhosts.gather.town/app/8GTU1Np5og1tJ0ab/Poster%20Session). Note that papers id can be found on Accepter papers section and the workshop replay can be fond on the ICLR [link](https://iclr.cc/virtual/2021/workshop/2136).
-
+Note that to attend the event, a registration on the Neurips [website](https://neurips.cc/Register2) is required. 
 
 ## Aim of the Workshop
 
