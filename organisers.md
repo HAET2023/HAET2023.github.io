@@ -10,5 +10,3 @@
 |[Vahid Partovi Nia](https://datawisdom.ca)<br />Huawei Noah's Ark Canada|[François Leduc-primeau](https://www.gr2m.polymtl.ca/francois-leduc-primeau-en)<br />Polytechnique Montreal|[Goncalo Mordido](https://goncalomordido.github.io/)<br />Polytechnique Montreal, Mila|
 
 
-|<img src="/orginisers_pictures/andreas.jpg" alt="Andreas Moshovos" width="225"/>
-|[Andreas Moshovos](https://www.eecg.utoronto.ca/~moshovos/000/doku.php)<br />University of Toronto|
