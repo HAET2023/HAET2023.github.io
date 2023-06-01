@@ -6,10 +6,8 @@ description: Tentative workshop at NeurIPS 2023
 navigation:
   Home: "/"
   Call for Papers: "/cfp"
-  Challenge: "/challenge"
   Organisers: "/organisers"
   Keynotes: "/speakers"
-  Schedule: "/schedule"
   
  
 markdown: kramdown
