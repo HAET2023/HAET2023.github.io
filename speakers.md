@@ -53,4 +53,4 @@
 | TBA. |
 
 | **Affiliation** | [Huawei](https://ieeexplore.ieee.org/author/37085869238) |
-| **Biography** | Lukas Cavigelli is a Researcher / Principal Engineer, AI Computing Systems at Huawei Technologies | Zurich Research Center. His research interests and contributions include deep learning, computer vision, embedded systems, and low-power integrated circuit design, which is highly relevant to the topic and audience of the workshop. | 
+| **Biography** | Lukas Cavigelli is a Researcher / Principal Engineer, AI Computing Systems at Huawei Technologies Zurich Research Center. His research interests and contributions include deep learning, computer vision, embedded systems, and low-power integrated circuit design, which is highly relevant to the topic and audience of the workshop. | 
