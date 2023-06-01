@@ -8,11 +8,21 @@
 - [Lukas Cavigelli](#lukas-cavigelli)
 
 
+## Warren Gross
+
+| <img src="/speakers_pictures/Lingjuan_Lyu.jpg" alt="Warren Gross" height="250px" /> |
+| **Stochastic Computing for Machine Learning towards an Intelligent Edge** |
+| Deep learning offers the promise of intelligent devices that are able to perceive, reason and take intuitive actions. The rising adoption of deep learning techniques has motivated the search for low-cost and high-speed software and hardware solutions for deployment on smart edge devices. In recent years work has focused on reducing the complexity of inference in deep neural networks, however, a method enabling low-complexity on-chip learning is still missing. In this talk we explore the promise of a hardware implementation technique called stochastic computing, which represents values in an algorithm as streams of randomly chosen bits. We show how stochastic computing can be used as a binary or ternary compression technique for both inference and training of deep neural networks. We also show how stochastic computing can implement invertible logic circuits that perform learning without backpropagation. |
+
+| **Affiliation** | [McGill University](https://www.mcgill.ca/ece/warren-gross) |
+| **Biography** | Warren J. Gross received the B.A.Sc. degree in Electrical Engineering from the University of Waterloo, Waterloo, ON, Canada, in 1996, and the M.A.Sc. and Ph.D. degrees from the University of Toronto, Toronto, ON, Canada, in 1999 and 2003, respectively. He is currently a Professor, the Louis Ho Faculty Scholar in Technological Innovation,  and the Chair of the Department of Electrical and Computer Engineering, McGill University, Montreal, QC, Canada. His research interests are in the design and implementation of signal processing systems and custom computer architectures. Dr. Gross served as the Chair for the IEEE Signal Processing Society Technical Committee on Design and Implementation of Signal Processing Systems. He served as the General Co-Chair for the IEEE GlobalSIP 2017 and the IEEE SiPS 2017 and the Technical Program Co-Chair for SiPS 2012. He served as an Associate Editor for the IEEE TRANSACTIONS ON SIGNAL PROCESSING and as a Senior Area Editor. He is a Licensed Professional Engineer in the Province of Ontario. |
+
 ## Lingjuan Lyu
 
 | <img src="/speakers_pictures/Lingjuan_Lyu.jpeg" alt="Lingjuan Lyu" height="250px" /> |
 | **MocoSFL: enabling cross-client collaborative self-supervised learning** |
 | TBA. |
+
 | **Affiliation** | [Sony AI](https://sites.google.com/view/lingjuan-lyu) |
 | **Biography** | Lingjuan Lyu is currently leading the privacy and
 security team in Sony AI, and her main interest is trustworthy AI, including but not
@@ -26,6 +36,7 @@ questions attendees may have in this domain. |
 | <img src="/speakers_pictures/omar.jpeg" alt="Omar Sanseviero" height="250px" /> |
 | **Open Source ML - four years of stories of open-source model and datasets sharing** |
 | TBA. |
+
 | **Affiliation** | [Hugging Face](https://osanseviero.github.io/hackerllama/) |
 | **Biography** |  Omar Sanseviero is a Machine Learning Engineer
 at Hugging Face, working in Community and Open Source, leading engineering and
@@ -40,6 +51,7 @@ AI and its different applications. |
 | <img src="/speakers_pictures/kaoutar.jpeg" alt="Kaoutar El Maghraoui" height="250px" /> |
 | **Powering the future of sustainable AI through hardware-software co-design** |
 | TBA. |
+
 | **Affiliation** | [IBM Research](https://researcher.watson.ibm.com/researcher/view.php?person=us-kelmaghr) |
 | **Biography** |  Kaoutar El Maghraoui is a principal research scientist
 at the IBM Research AI organization where she is focusing on innovations at the
@@ -53,6 +65,7 @@ on enabling next-generation chips and systems for AI workloads. |
 | **How biological plausibility and hardware efficiency are two sides of
 the same coin for efficient training** |
 | TBA. |
+
 | **Affiliation** | [TU Delft](https://chfrenkel.github.io/) |
 | **Biography** |  Charlotte Frenkel is a professor at TU Delft, and is
 working on the intersection between engineering, machine learning, and neuroscience.
@@ -67,6 +80,7 @@ processing. |
 | **On-device user and domain adaptation: improved accuracy at lower
 power** |
 | TBA. |
+
 | **Affiliation** | [Huawei](https://ieeexplore.ieee.org/author/37085869238) |
 | **Biography** | Lukas Cavigelli is a Researcher / Principal Engineer,
 AI Computing Systems at Huawei Technologies | Zurich Research Center. His research
