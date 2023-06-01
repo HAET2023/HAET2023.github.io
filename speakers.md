@@ -8,15 +8,6 @@
 - [Lukas Cavigelli](#lukas-cavigelli)
 
 
-## Warren Gross
-
-| <img src="/speakers_pictures/Lingjuan_Lyu.jpg" alt="Warren Gross" height="250px" /> |
-| **Stochastic Computing for Machine Learning towards an Intelligent Edge** |
-| Deep learning offers the promise of intelligent devices that are able to perceive, reason and take intuitive actions. The rising adoption of deep learning techniques has motivated the search for low-cost and high-speed software and hardware solutions for deployment on smart edge devices. In recent years work has focused on reducing the complexity of inference in deep neural networks, however, a method enabling low-complexity on-chip learning is still missing. In this talk we explore the promise of a hardware implementation technique called stochastic computing, which represents values in an algorithm as streams of randomly chosen bits. We show how stochastic computing can be used as a binary or ternary compression technique for both inference and training of deep neural networks. We also show how stochastic computing can implement invertible logic circuits that perform learning without backpropagation. |
-
-| **Affiliation** | [McGill University](https://www.mcgill.ca/ece/warren-gross) |
-| **Biography** | Warren J. Gross received the B.A.Sc. degree in Electrical Engineering from the University of Waterloo, Waterloo, ON, Canada, in 1996, and the M.A.Sc. and Ph.D. degrees from the University of Toronto, Toronto, ON, Canada, in 1999 and 2003, respectively. He is currently a Professor, the Louis Ho Faculty Scholar in Technological Innovation,  and the Chair of the Department of Electrical and Computer Engineering, McGill University, Montreal, QC, Canada. His research interests are in the design and implementation of signal processing systems and custom computer architectures. Dr. Gross served as the Chair for the IEEE Signal Processing Society Technical Committee on Design and Implementation of Signal Processing Systems. He served as the General Co-Chair for the IEEE GlobalSIP 2017 and the IEEE SiPS 2017 and the Technical Program Co-Chair for SiPS 2012. He served as an Associate Editor for the IEEE TRANSACTIONS ON SIGNAL PROCESSING and as a Senior Area Editor. He is a Licensed Professional Engineer in the Province of Ontario. |
-
 ## Lingjuan Lyu
 
 | <img src="/speakers_pictures/Lingjuan_Lyu.jpeg" alt="Lingjuan Lyu" height="250px" /> |
@@ -24,12 +15,8 @@
 | TBA. |
 
 | **Affiliation** | [Sony AI](https://sites.google.com/view/lingjuan-lyu) |
-| **Biography** | Lingjuan Lyu is currently leading the privacy and
-security team in Sony AI, and her main interest is trustworthy AI, including but not
-limited to federated learning, privacy-preserving machine learning, on-device AI, etc.
-She is an expert on on-device AI and conducts a lot of research in this domain, so
-we think she is very relevant to the workshop and she can answer a lot of important
-questions attendees may have in this domain. | 
+| **Biography** | Lingjuan Lyu is currently leading the privacy and security team in Sony AI, and her main interest is trustworthy AI, including but not limited to federated learning, privacy-preserving machine learning, on-device AI, etc. She is an expert on on-device AI and conducts a lot of research in this domain, so we think she is very relevant to the workshop and she can answer a lot of important questions attendees may have in this domain. |
+
 
 ## Omar Sanseviero
 
