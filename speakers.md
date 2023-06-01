@@ -40,8 +40,7 @@
 ## Charlotte Frenkel
 
 | <img src="/speakers_pictures/charlotte.jpeg" alt="Charlotte Frenkel" height="250px" /> |
-| **How biological plausibility and hardware efficiency are two sides of
-the same coin for efficient training** |
+| **How biological plausibility and hardware efficiency are two sides of the same coin for efficient training** |
 | TBA. |
 
 | **Affiliation** | [TU Delft](https://chfrenkel.github.io/) |
@@ -50,8 +49,7 @@ the same coin for efficient training** |
 ## Lukas Cavigelli
 
 | <img src="/speakers_pictures/lukas.jpeg" alt="Lukas Cavigelli" height="250px" /> |
-| **On-device user and domain adaptation: improved accuracy at lower
-power** |
+| **On-device user and domain adaptation: improved accuracy at lower power** |
 | TBA. |
 
 | **Affiliation** | [Huawei](https://ieeexplore.ieee.org/author/37085869238) |
