@@ -25,12 +25,7 @@
 | TBA. |
 
 | **Affiliation** | [Hugging Face](https://osanseviero.github.io/hackerllama/) |
-| **Biography** |  Omar Sanseviero is a Machine Learning Engineer
-at Hugging Face, working in Community and Open Source, leading engineering and
-developer advocacy teams. Previously, Omar worked as a Software Engineer at Google
-in the Assistant and TensorFlow Graphics teams. Omar is passionate about education
-and co-founded AI Learners, a Spanish-speaking community that wants to learn about
-AI and its different applications. | 
+| **Biography** |  Omar Sanseviero is a Machine Learning Engineer at Hugging Face, working in Community and Open Source, leading engineering and developer advocacy teams. Previously, Omar worked as a Software Engineer at Google in the Assistant and TensorFlow Graphics teams. Omar is passionate about education and co-founded AI Learners, a Spanish-speaking community that wants to learn about AI and its different applications. | 
 
 
 ## Kaoutar El Maghraoui
@@ -40,11 +35,7 @@ AI and its different applications. |
 | TBA. |
 
 | **Affiliation** | [IBM Research](https://researcher.watson.ibm.com/researcher/view.php?person=us-kelmaghr) |
-| **Biography** |  Kaoutar El Maghraoui is a principal research scientist
-at the IBM Research AI organization where she is focusing on innovations at the
-intersection of systems and artificial intelligence. She leads the End-Use experimental
-AI testbed of the IBM Research AI Hardware Center, a global research hub focusing
-on enabling next-generation chips and systems for AI workloads. | 
+| **Biography** |  Kaoutar El Maghraoui is a principal research scientist at the IBM Research AI organization where she is focusing on innovations at the intersection of systems and artificial intelligence. She leads the End-Use experimental AI testbed of the IBM Research AI Hardware Center, a global research hub focusing on enabling next-generation chips and systems for AI workloads. | 
 
 ## Charlotte Frenkel
 
@@ -54,12 +45,7 @@ the same coin for efficient training** |
 | TBA. |
 
 | **Affiliation** | [TU Delft](https://chfrenkel.github.io/) |
-| **Biography** |  Charlotte Frenkel is a professor at TU Delft, and is
-working on the intersection between engineering, machine learning, and neuroscience.
-She gets inspired by the brain’s computational primitives and combines them with
-machine learning algorithms to reduce the power and memory footprint of on-device
-training on the edge. She has designed multiple ASICs for real-time sensory signal
-processing. | 
+| **Biography** |  Charlotte Frenkel is a professor at TU Delft, and is working on the intersection between engineering, machine learning, and neuroscience. She gets inspired by the brain’s computational primitives and combines them with machine learning algorithms to reduce the power and memory footprint of on-device training on the edge. She has designed multiple ASICs for real-time sensory signal processing. | 
 
 ## Lukas Cavigelli
 
@@ -69,8 +55,4 @@ power** |
 | TBA. |
 
 | **Affiliation** | [Huawei](https://ieeexplore.ieee.org/author/37085869238) |
-| **Biography** | Lukas Cavigelli is a Researcher / Principal Engineer,
-AI Computing Systems at Huawei Technologies | Zurich Research Center. His research
-interests and contributions include deep learning, computer vision, embedded systems,
-and low-power integrated circuit design, which is highly relevant to the topic and
-audience of the workshop. | 
+| **Biography** | Lukas Cavigelli is a Researcher / Principal Engineer, AI Computing Systems at Huawei Technologies | Zurich Research Center. His research interests and contributions include deep learning, computer vision, embedded systems, and low-power integrated circuit design, which is highly relevant to the topic and audience of the workshop. | 
